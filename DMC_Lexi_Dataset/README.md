@@ -12,7 +12,7 @@ This repository contains materials related to the project **DMC Lexi** (Proposal
 ## Access and Licensing
 
 - Metadata and transcriptions are licensed under CC BY 4.0.
-- Images of manuscripts are **not** included due to copyright restrictions. For access, please contact mkonst@helit.duth.gr.
+- Images of some manuscripts are **not** included due to copyright restrictions. For access, please contact mkonst@helit.duth.gr.
 
 ## Citation
 
