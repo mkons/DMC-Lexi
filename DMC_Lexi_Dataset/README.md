@@ -5,6 +5,9 @@ This repository contains materials related to the project **Digital Manuscripts 
 ## Contents
 
 - Metadata on manuscript witnesses of Cyril’s Lexicon
+  **Mount Athos, Xiropotamou Monastery 93 Lambros 2426, 16 c., Item 6
+  Athens, National Library of Greece (EBE) 1082, 15 c., ff. 1-167
+  Deskati (Zaborda), Saint Nikanor Monastery 95, 13 c., ff. 57-76**
 - TEI-encoded transcriptions (in progress)
 - Scripts for processing and analysis
 - Documentation
@@ -12,13 +15,13 @@ This repository contains materials related to the project **Digital Manuscripts 
 ## Access and Licensing
 
 - Metadata and transcriptions are licensed under CC BY 4.0.
-- Images of some manuscripts are **not** included due to copyright restrictions. For access, please contact mkonst@helit.duth.gr.
+- Images of some manuscripts are **not** included due to copyright restrictions. For access, please contact dmc@helit.duth.gr.
 
 ## Citation
 
 Please cite this dataset as:
 
-> Konstantinidou, M. et al. (2025). *DMC Lexi Dataset*. Democritus University of Thrace. https://github.com/your-org/dmc-lexi-dataset
+> Konstantinidou, M. et al. (2025). *DMC-Lexi Dataset*. Democritus University of Thrace. https://github.com/mkons/dmc-lexi-dataset
 
 ## Acknowledgments
 
