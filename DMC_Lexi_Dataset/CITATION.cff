@@ -1,9 +1,74 @@
 cff-version: 1.2.0
-title: "DMC Lexi Dataset"
+message: "If you use this dataset, please cite it as below."
+title: "DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts"
+version: "1.0"
+doi: 10.5281/zenodo.16417698
+date-released: 2025-07-25
+license: CC-BY-4.0
+repository-code: https://github.com/mkons/DMC-Lexi
 authors:
   - family-names: Konstantinidou
     given-names: Maria
-    orcid: https://orcid.org/0000-0000-0000-0000
+    affiliation: Democritus University of Thrace, Laboratory of Papyrology, Palaeography, Epigraphy and their Digital Applications
+    roles: [project-leader]
+  - family-names: Busses
+    given-names: Stamatios
+    affiliation: Democritus University of Thrace, Laboratory of Papyrology, Palaeography, Epigraphy and their Digital Applications
+    roles: [editor]
+  - family-names: Ioakeimidou
+    given-names: Despoina
+    affiliation: Democritus University of Thrace
+    roles: [data-curator]
+  - family-names: Gkinidis
+    given-names: Emmanuil
+    roles: [data-manager]
+  - family-names: Moutsis
+    given-names: Stavros N.
+    affiliation: Democritus University of Thrace
+    roles: [data-collector]
+  - family-names: Perdiki
+    given-names: Elpida
+    affiliation: Democritus University of Thrace
+    roles: [data-curator]
+  - family-names: Agoris
+    given-names: Dimitrios
+    roles: [annotator]
+  - family-names: Kouroudis
+    given-names: Ioannis
+    roles: [annotator]
+  - family-names: Mega
+    given-names: Athina
+    roles: [annotator]
+  - family-names: Tepetzi
+    given-names: Apostolia
+    roles: [annotator]
+  - family-names: Tsoukatos
+    given-names: Nikolaos
+    roles: [annotator]
+  - family-names: Fragkopoulou
+    given-names: Maria
+    roles: [annotator]
+  - family-names: Nastou
+    given-names: Panayotis
+    affiliation: University of the Aegean
+    roles: [work-package-leader]
+  - family-names: Tsolomitis
+    given-names: Antonis
+    affiliation: University of the Aegean, School of Sciences
+    roles: [contributor]
+keywords:
+  - Cyril of Alexandria
+  - Greek Lexicon
+  - Byzantine Manuscripts
+  - TEI
+  - Segmentation
+  - Digital Humanities
+  - HTR Dataset
+  - Ancient Greek
+funding:
+  - Hellenic Foundation for Research and Innovation (H.F.R.I.)
+  - Grant ID: 014890
+
 date-released: 2025-07-06
 license: CC-BY-4.0
 version: 0.1
