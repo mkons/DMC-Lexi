@@ -22,4 +22,6 @@ Please cite this dataset as:
 
 ## Acknowledgments
 
-Funded by the H.F.R.I. under the "Greece 2.0" National Recovery and Resilience Plan.
+This project is carried out within the framework of the National Recovery and Resilience Plan Greece 2.0, funded by the European Union – NextGenerationEU (Implementation body: HFRI). Duration: 01/01/2024 – 31/12/2025
+
+
