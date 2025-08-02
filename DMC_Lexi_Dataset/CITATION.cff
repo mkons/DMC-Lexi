@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "DMC Lexi Dataset"
+authors:
+  - family-names: Konstantinidou
+    given-names: Maria
+    orcid: https://orcid.org/0000-0000-0000-0000
+date-released: 2025-07-06
+license: CC-BY-4.0
+version: 0.1
+repository-code: https://github.com/your-org/dmc-lexi-dataset
