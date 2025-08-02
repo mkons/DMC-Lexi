@@ -1,6 +1,6 @@
 # DMC Lexi Dataset
 
-This repository contains materials related to the project **DMC Lexi** (Proposal ID: 014890), funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.). The project aims to lay the foundation for the first comprehensive edition of Cyril's Lexicon.
+This repository contains materials related to the project **Digital Manuscripts of Cyril's Lexicon (DMC Lexi)** (ID: 014890), funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.) by the European Union – NextGenerationEU. The project aims to lay the foundation for the first comprehensive edition of Cyril's Lexicon.
 
 ## Contents
 
