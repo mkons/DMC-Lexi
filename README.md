@@ -49,7 +49,7 @@ Please cite this dataset as follows:
 
 Alternatively (APA-style):
 
-> Konstantinidou, M., Busses, S., Ioakeimidou, D., et al. (2025). *DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts* (v1.0). [Dataset]. GitHub. {https://github.com/mkons/DMC-Lexi}
+> Konstantinidou, M., Busses, S., Ioakeimidou, D., et al. (2025). *DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts* (v1.0). [Dataset]. GitHub. https://github.com/mkons/DMC-Lexi
 
 ---
 
