@@ -68,7 +68,7 @@ dmc@helit.duth.gr
 
 ---
 
-## Acknowledgments
+## Acknowledegments
 
 <p align="center">
   <a href="https://www.elidek.gr/">
