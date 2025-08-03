@@ -76,10 +76,10 @@ dmc@helit.duth.gr
 
 <p align="center">
   <a href="https://www.elidek.gr/">
-    <img src="assets/hfri_logo.png" alt="Hellenic Foundation for Research and Innovation" height="60">
+    <img src="assets/hfri_logo.png" alt="Hellenic Foundation for Research and Innovation" height="60" style="margin: 0 20px;">
   </a>
   <a href="https://greece20.gov.gr">
-    <img src="assets/eu_nextgen_logo.png" alt="NextGenerationEU" height="60">
+    <img src="assets/eu_nextgen_logo.png" alt="NextGenerationEU" height="60" style="margin: 0 20px;">
   </a>
 </p>
 
