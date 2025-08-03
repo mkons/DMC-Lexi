@@ -1,4 +1,4 @@
-# DMC Lexi Dataset
+# DMC - Lexi Dataset
 
 This repository hosts the structured open-access dataset and associated materials for the project:
 
@@ -10,7 +10,7 @@ The dataset is part of a wider initiative to lay the groundwork for a comprehens
 
 ---
 
-## 📦 Repository Structure
+## Repository Structure
 
 - `Dataset/`  
   └ Contains the full dataset release with:
@@ -24,15 +24,15 @@ The dataset is part of a wider initiative to lay the groundwork for a comprehens
 
 ---
 
-## 📜 Manuscript Sources
+## Manuscript Sources
 
-- 📘 *Mount Athos, Xiropotamou Monastery 93 (Lambros 2426)* – 16th century
-- 📘 *Athens, National Library of Greece (EBE) 1082* – 15th century, ff. 1–167
-- 📘 *Deskati (Zaborda), Saint Nikanor Monastery 95* – 13th century, ff. 57–76
+- *Mount Athos, Xiropotamou Monastery 93 (Lambros 2426)* – 16th century
+- *Athens, National Library of Greece (EBE) 1082* – 15th century, ff. 1–167
+- *Deskati (Zaborda), Saint Nikanor Monastery 95* – 13th century, ff. 57–76
 
 ---
 
-## 🧾 Citation
+## Citation
 
 Please cite this dataset as follows:
 
@@ -42,21 +42,18 @@ Please cite this dataset as follows:
   title        = {DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts},
   year         = {2025},
   version      = {1.0},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.16417698},
-  url          = {https://doi.org/10.5281/zenodo.16417698},
+  url          = {https://github.com/mkons/DMC-Lexi},
   note         = {Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.), Grant ID 014890}
 }
 ```
 
 Alternatively (APA-style):
 
-> Konstantinidou, M., Busses, S., Ioakeimidou, D., et al. (2025).  
-> *DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.16417698
+> Konstantinidou, M., Busses, S., Ioakeimidou, D., et al. (2025). *DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts* (v1.0). [Dataset]. GitHub. {https://github.com/mkons/DMC-Lexi}
 
 ---
 
-## 🛠 Technical Details
+## Technical Details
 
 - All data are UTF-8 encoded (see `.gitattributes`)
 - Lemmata and definitions exported in `.csv` format
@@ -66,16 +63,16 @@ Alternatively (APA-style):
 
 ---
 
-## 📜 License
+## License
 
 All materials in this repository are distributed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 **Note:** Due to copyright restrictions, manuscript images may not be included in full. For access, contact:  
-📧 **dmc@helit.duth.gr**
+dmc@helit.duth.gr
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 <p align="center">
   <a href="https://www.elidek.gr/">
@@ -93,7 +90,7 @@ Implementation Body: **H.F.R.I.**
 
 ---
 
-## 🧠 Contact & More Info
+## Contact & More Info
 
 Project Lead: Dr. Maria Konstantinidou  
 Institution: Democritus University of Thrace  
