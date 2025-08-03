@@ -25,6 +25,7 @@ The dataset is part of a wider initiative to lay the groundwork for a comprehens
 ---
 
 ## Manuscript Sources
+This is an ongoing project. The manuscripts avaailable in v.1 are:
 
 - *Mount Athos, Xiropotamou Monastery 93 (Lambros 2426)* – 16th century
 - *Athens, National Library of Greece (EBE) 1082* – 15th century, ff. 1–167
