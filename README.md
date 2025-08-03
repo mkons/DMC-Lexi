@@ -10,17 +10,12 @@ The dataset is part of a wider initiative to lay the groundwork for a comprehens
 
 ---
 
-## Repository Structure
+## Contents
+The Dataset consists of 
+- CSV files with transcriptions of three manuscripts of Cyril's *Lexicon* together with their metadata. The transcriptions have been produced manually during the Project and the manuscripts are otherwise unedited and unpublished. Each transcribed segment is labelled as either lemma or definition. The files contain structured data by manuscript, line, and lexical function. 
+- Images of one of the manuscripts (*Athens, National Library of Greece (EBE) 1082*) along with positional coordinates (bounding boxes) that map the transcribed text segments to their corresponding regions on the manuscript image.
 
-- `Dataset/`  
-  └ Contains the full dataset release with:
-    - `Export/`: Final lemmata and definitions
-    - `combined_per_book/`: Lemma-definition pairs per manuscript
-    - `images/`: Annotated segmentation samples
-    - `README_DATA.md`: Detailed dataset-level notes
 
-- `assets/`: Logos and visual materials  
-- `.gitattributes`, `.gitignore`, `LICENSE`, `CITATION.cff`, `CITATION.bib`: Repo management and metadata
 
 ---
 
