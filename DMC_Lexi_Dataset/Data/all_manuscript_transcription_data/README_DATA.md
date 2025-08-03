@@ -1,7 +1,7 @@
 # Dataset Contents
 
-- `metadata/`: CSV files with manuscript metadata.
-- `transcriptions/`: TEI-encoded XML files with manual or automatic transcriptions.
+- `metadata/`: CSV files with manuscript metadata and transcriptions of lemmata, definitions or lemmata AND definitions
+
 
 ## TEI Conventions
 
