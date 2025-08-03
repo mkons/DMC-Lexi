@@ -2,7 +2,7 @@
 
 This repository hosts the structured open-access dataset and associated materials for the project:
 
-> **Digital Manuscripts of Cyril's Lexicon (DMC Lexi)**  
+> [**Digital Manuscripts of Cyril's Lexicon (DMC Lexi)**](https://cyril-lexicon.aegean.gr/)  
 > Project ID: 014890  
 > Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.) through the European Union – NextGenerationEU.
 
