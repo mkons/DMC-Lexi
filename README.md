@@ -37,7 +37,7 @@ Please cite this dataset as follows:
   author       = {Maria Konstantinidou and Stamatios Busses and Despoina Ioakeimidou and Emmanuil Gkinidis and Stavros N. Moutsis and Elpida Perdiki and Dimitrios Agoris and Ioannis Kouroudis and Athina Mega and Apostolia Tepetzi and Nikolaos Tsoukatos and Maria Fragkopoulou and Panayotis Nastou and Antonis Tsolomitis},
   title        = {DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts},
   year         = {2025},
-  version      = {1.0},
+  version      = {1.0.0},
   url          = {https://github.com/mkons/DMC-Lexi},
   note         = {Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.), Grant ID 014890}
 }
@@ -45,7 +45,7 @@ Please cite this dataset as follows:
 
 Alternatively (APA-style):
 
-> Konstantinidou, M., Busses, S., Ioakeimidou, D., et al. (2025). *DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts* (v1.0). [Dataset]. GitHub. https://github.com/mkons/DMC-Lexi
+> Konstantinidou, M., Busses, S., Ioakeimidou, D., et al. (2025). *DMC Lexi Dataset: Image - text aligned transcription of Cyril of Alexandria's Greek Manuscripts* (v1.0.0). [Dataset]. GitHub. https://github.com/mkons/DMC-Lexi
 
 ---
 
